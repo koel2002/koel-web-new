@@ -1,0 +1,352 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A futuristic green factory setting with recycled textiles",
+      "imageUrl": "https://lh3.googleusercontent.com/d/1xhZ9HKGjalE3RoO682Rr9RKp66cKONOB",
+      "imageHint": "green factory"
+    },
+    {
+      "id": "hero-2",
+      "description": "Sustainable textiles being processed",
+      "imageUrl": "https://images.unsplash.com/photo-1715198901384-0b7ff9f37a77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdXN0YWluYWJsZSUyMHRleHRpbGVzfGVufDB8fHx8MTc2MjMyNDExMHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "sustainable textiles"
+    },
+    {
+      "id": "hero-3",
+      "description": "Digital traceability lines over a textile background",
+      "imageUrl": "https://images.unsplash.com/photo-1582775764915-6b78a5e9904d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwdHJhY2VhYmlsaXR5fGVufDB8fHx8MTc2MjMyNDExMHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital traceability"
+    },
+    {
+      "id": "about-overview",
+      "description": "Diverse team collaborating in a modern office",
+      "imageUrl": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NjIyNzQ3Njd8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "jayqo-factory",
+      "description": "A rendering of a modern, green factory",
+      "imageUrl": "https://images.unsplash.com/photo-1547895749-888a559fc2a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjBmYWN0b3J5fGVufDB8fHx8MTc2MjMyNDExMHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern factory"
+    },
+    {
+      "id": "company-koel-modish",
+      "description": "Koel Modish Apparels",
+      "imageUrl": "https://images.pexels.com/photos/7857577/pexels-photo-7857577.jpeg",
+      "imageHint": "apparel factory"
+    },
+    {
+      "id": "company-jayqo",
+      "description": "Jayqo Textiles",
+      "imageUrl": "https://images.pexels.com/photos/15937624/pexels-photo-15937624.jpeg",
+      "imageHint": "recycled textiles"
+    },
+    {
+      "id": "company-koel-shop",
+      "description": "Koel Shop",
+      "imageUrl": "https://images.pexels.com/photos/5698851/pexels-photo-5698851.jpeg",
+      "imageHint": "online shopping"
+    },
+    {
+      "id": "company-anisha-agro",
+      "description": "Anisha Agricultural Industry",
+      "imageUrl": "https://images.pexels.com/photos/3265437/pexels-photo-3265437.jpeg",
+      "imageHint": "agriculture technology"
+    },
+    {
+      "id": "company-arham-diagnostic",
+      "description": "Arham Diagnostic Center",
+      "imageUrl": "https://images.pexels.com/photos/8460234/pexels-photo-8460234.jpeg",
+      "imageHint": "medical diagnostics"
+    },
+    {
+      "id": "why-us-commitment",
+      "description": "Circular graphic of a recycling process",
+      "imageUrl": "https://images.unsplash.com/photo-1669384537216-24740a56a2d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWN5Y2xpbmclMjBwcm9jZXNzfGVufDB8fHx8MTc2MjMyNDExMHww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "recycling process"
+    },
+    {
+      "id": "csr-impact",
+      "description": "Community members working together on a project",
+      "imageUrl": "https://images.unsplash.com/photo-1711202675927-b81cc42a479c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb21tdW5pdHklMjBlbXBvd2VybWVudHxlbnwwfHx8fDE3NjIzMjQxMTB8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "community empowerment"
+    },
+    {
+      "id": "contact-map",
+      "description": "A map showing the location of Uttara, Dhaka",
+      "imageUrl": "https://images.unsplash.com/photo-1619468129361-605ebea04b44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHjaXR5JTIwbWFwfGVufDB8fHx8MTc2MjI3MTg5NXww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    },
+    {
+      "id": "partner-logo",
+      "description": "Generic partner logo",
+      "imageUrl": "https://images.unsplash.com/photo-1687523327554-fa9f50423489?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NjIyNDM0NzB8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "product-tshirt",
+      "description": "High-quality cotton t-shirt",
+      "imageUrl": "https://images.unsplash.com/photo-1759572095384-1a7e646d0d4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0LXNoaXJ0fGVufDB8fHx8MTc2MjI0NzI3N3ww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "t-shirt"
+    },
+    {
+      "id": "product-shirt",
+      "description": "Formal business shirt",
+      "imageUrl": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkcmVzcyUyMHNoaXJ0fGVufDB8fHx8MTc2MjIxODA4Nnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "dress shirt"
+    },
+    {
+      "id": "product-sweater",
+      "description": "Cozy wool sweater",
+      "imageUrl": "https://images.unsplash.com/photo-1601379327928-bedfaf9da2d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b29sJTIwc3dlYXRlcnxlbnwwfHx8fDE3NjIzMjA1Nzh8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "wool sweater"
+    },
+    {
+      "id": "product-jacket",
+      "description": "Durable winter jacket",
+      "imageUrl": "https://images.unsplash.com/photo-1613422448762-c13f05ae758a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3aW50ZXIlMjBqYWNrZXR8ZW58MHx8fHwxNzYyMjUyODgzfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "winter jacket"
+    },
+    {
+      "id": "product-hoodie",
+      "description": "Comfortable fleece hoodie",
+      "imageUrl": "https://images.unsplash.com/photo-1467271891377-355028f2f363?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmbGVlY2UlMjBob29kaWV8ZW58MHx8fHwxNzYyMzM2NTcwfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "fleece hoodie"
+    },
+    {
+      "id": "product-trousers",
+      "description": "Stylish trousers",
+      "imageUrl": "https://images.unsplash.com/photo-1758696654562-4c534bf0cad8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHhjaGlub3N8ZW58MHx8fHwxNzYyMzM2NTcwfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "chinos"
+    },
+    {
+      "id": "product-underwear",
+      "description": "Men's underwear",
+      "imageUrl": "https://images.pexels.com/photos/7147460/pexels-photo-7147460.jpeg",
+      "imageHint": "boxer briefs"
+    },
+    {
+      "id": "product-padded-jacket",
+      "description": "Padded winter jacket",
+      "imageUrl": "https://images.unsplash.com/photo-1711527088900-f7ebabda4e3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwdWZmZXIlMjBqYWNrZXR8ZW58MHx8fHwxNzYyMzM2NTcwfDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "puffer jacket"
+    },
+    {
+      "id": "kma-award",
+      "description": "A shiny award trophy",
+      "imageUrl": "https://images.unsplash.com/photo-1656978766399-1e117a291918?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhd2FyZCUyMHRyb3BoeXxlbnwwfHx8fDE3NjIyNzE5NjV8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "award trophy"
+    },
+    {
+      "id": "agro-tech-vision",
+      "description": "Farmer looking at a tablet in a field",
+      "imageUrl": "https://images.pexels.com/photos/842545/pexels-photo-842545.jpeg",
+      "imageHint": "farmer tablet"
+    },
+    {
+      "id": "agro-smart-farming",
+      "description": "A tractor working in a field at sunset",
+      "imageUrl": "https://images.pexels.com/photos/2132126/pexels-photo-2132126.jpeg",
+      "imageHint": "tractor sunset"
+    },
+    {
+      "id": "agro-supply-chain",
+      "description": "Fresh produce at a market",
+      "imageUrl": "https://images.pexels.com/photos/2252584/pexels-photo-2252584.jpeg",
+      "imageHint": "market produce"
+    },
+    {
+      "id": "arham-hero",
+      "description": "Doctor using a tablet with a futuristic medical UI",
+      "imageUrl": "https://images.pexels.com/photos/7966277/pexels-photo-7966277.jpeg",
+      "imageHint": "digital healthcare"
+    },
+    {
+      "id": "arham-hybrid-care",
+      "description": "A modern and clean diagnostic lab facility",
+      "imageUrl": "https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg",
+      "imageHint": "diagnostic lab"
+    },
+    {
+      "id": "arham-doctor-team",
+      "description": "A diverse team of smiling doctors",
+      "imageUrl": "https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg",
+      "imageHint": "medical team"
+    },
+    {
+      "id": "koel-shop-hero",
+      "description": "Trendy clothes on a clothing rack",
+      "imageUrl": "https://images.pexels.com/photos/157675/fashion-men-s-individuality-black-and-white-157675.jpeg",
+      "imageHint": "fashion clothing"
+    },
+    {
+      "id": "koel-shop-polo",
+      "description": "A person wearing a polo shirt",
+      "imageUrl": "https://images.pexels.com/photos/842811/pexels-photo-842811.jpeg",
+      "imageHint": "polo shirt"
+    },
+    {
+      "id": "koel-shop-sweatshirt",
+      "description": "A stylish sweatshirt",
+      "imageUrl": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
+      "imageHint": "sweatshirt model"
+    },
+    {
+      "id": "koel-shop-team-tech",
+      "description": "A software developer at a computer",
+      "imageUrl": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg",
+      "imageHint": "software developer"
+    },
+    {
+      "id": "koel-shop-team-designer",
+      "description": "A fashion designer sketching ideas",
+      "imageUrl": "https://images.pexels.com/photos/3757955/pexels-photo-3757955.jpeg",
+      "imageHint": "fashion designer"
+    },
+    {
+      "id": "koel-shop-team-marketing",
+      "description": "A marketing team collaborating on a campaign",
+      "imageUrl": "https://images.pexels.com/photos/3184423/pexels-photo-3184423.jpeg",
+      "imageHint": "marketing team"
+    },
+    {
+      "id": "koel-shop-team-delivery",
+      "description": "A delivery person with packages",
+      "imageUrl": "https://images.pexels.com/photos/6169668/pexels-photo-6169668.jpeg",
+      "imageHint": "delivery service"
+    },
+    {
+      "id": "jayqo-hero",
+      "description": "Rolls of sustainable, recycled fabric in various colors",
+      "imageUrl": "https://images.pexels.com/photos/10763264/pexels-photo-10763264.jpeg",
+      "imageHint": "recycled fabric"
+    },
+    {
+      "id": "jayqo-opportunity",
+      "description": "A vast landscape of textile waste ready for recycling",
+      "imageUrl": "https://images.pexels.com/photos/12698246/pexels-photo-12698246.jpeg",
+      "imageHint": "textile waste"
+    },
+    {
+      "id": "jayqo-vision",
+      "description": "A futuristic rendering of a smart factory with data overlays",
+      "imageUrl": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg",
+      "imageHint": "smart factory"
+    },
+    {
+      "id": "jayqo-commitment",
+      "description": "A graphic showing the circular economy for textiles",
+      "imageUrl": "https://images.pexels.com/photos/13563450/pexels-photo-13563450.jpeg",
+      "imageHint": "circular economy"
+    },
+    {
+      "id": "sourcing-china",
+      "description": "A bustling street in Shanghai, China",
+      "imageUrl": "https://images.pexels.com/photos/219272/pexels-photo-219272.jpeg",
+      "imageHint": "shanghai street"
+    },
+    {
+      "id": "sourcing-india",
+      "description": "A vibrant textile market in India",
+      "imageUrl": "https://images.pexels.com/photos/15784305/pexels-photo-15784305.jpeg",
+      "imageHint": "india market"
+    },
+    {
+      "id": "sourcing-italy",
+      "description": "A high-fashion street in Milan, Italy",
+      "imageUrl": "https://images.pexels.com/photos/1824151/pexels-photo-1824151.jpeg",
+      "imageHint": "milan fashion"
+    },
+    {
+      "id": "product-polo-sweat",
+      "description": "A person wearing a polo shirt and another wearing a sweatshirt",
+      "imageUrl": "https://images.unsplash.com/photo-1550403648-c1a73c1ebb94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb2xvJTIwc3dlYXRzaGlydHxlbnwwfHx8fDE3NjI0MTMxOTh8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "polo sweatshirt"
+    },
+    {
+      "id": "product-denim",
+      "description": "A pair of denim jeans",
+      "imageUrl": "https://images.unsplash.com/photo-1604176354204-9268737828e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkZW5pbSUyMGplYW5zfGVufDB8fHx8MTc2MjM4NTA4Nnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "denim jeans"
+    },
+    {
+      "id": "product-women",
+      "description": "A collection of women's clothing",
+      "imageUrl": "https://images.unsplash.com/photo-1524255684952-d7185b509571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21lbnMlMjBmYXNoaW9ufGVufDB8fHx8MTc2MjMyNTMzNnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "womens fashion"
+    },
+    {
+      "id": "product-kids",
+      "description": "Colorful kids' clothing",
+      "imageUrl": "https://images.unsplash.com/photo-1622218286192-95f6a20083c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxraWRzJTIwZmFzaGlvbnxlbnwwfHx8fDE3NjIzMjc4OTN8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "kids fashion"
+    },
+    {
+      "id": "product-young",
+      "description": "Trendy clothes for young adults",
+      "imageUrl": "https://images.unsplash.com/photo-1649225681102-189d8453ee4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWVuJTIwZmFzaGlvbnxlbnwwfHx8fDE3NjIzMjc4OTN8MA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "teen fashion"
+    },
+    {
+      "id": "koel-modish-logo",
+      "description": "Koel Modish Logo",
+      "imageUrl": "https://lh3.googleusercontent.com/d/1RQjL_he7mItsnQGGuukx87jKEiYnAf_B",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "jayqo-textiles-logo",
+      "description": "JAYQO Textiles Logo",
+      "imageUrl": "https://lh3.googleusercontent.com/d/1v8YaVgfsAds2AsWsqKFI4ADMurYI3zsT",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "koel-shop-logo",
+      "description": "Koel Shop Logo",
+      "imageUrl": "https://lh3.googleusercontent.com/d/1sU2t221TYKyUhh-FfeDvsj0ll7pqF2rP",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "anisha-agriculture-logo",
+      "description": "ANisha Agriculture Logo",
+      "imageUrl": "https://lh3.googleusercontent.com/d/1H7lS4-LclCXhbRgOStI48tc_E6AE7L2_",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "arham-diagnostic-logo",
+      "description": "Arham Diagnostic Center Logo",
+      "imageUrl": "https://lh3.googleusercontent.com/d/1deDtsOtnF3VUwCcUAAyjz2B622miQojB",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "home-cta",
+      "description": "Factory workers collaborating in a textile mill",
+      "imageUrl": "https://images.pexels.com/photos/834892/pexels-photo-834892.jpeg",
+      "imageHint": "factory workers"
+    },
+    {
+      "id": "custom-order-event",
+      "description": "A crowd at a music concert",
+      "imageUrl": "https://lh3.googleusercontent.com/d/1ZdajddJQAZqqsZWgNHOWSkxZR2bW0nP5",
+      "imageHint": "concert crowd"
+    },
+    {
+      "id": "custom-order-tour",
+      "description": "A group of tourists exploring",
+      "imageUrl": "https://lh3.googleusercontent.com/d/19HZF9qTmNQ-IBZ9KpP0NiXkRva77Tg-G",
+      "imageHint": "tourist group"
+    },
+    {
+      "id": "custom-order-corporate",
+      "description": "Professionals in a modern office meeting",
+      "imageUrl": "https://lh3.googleusercontent.com/d/19nCcTbBadRjPV1hQDiCnTpvjmKwi6eMq",
+      "imageHint": "corporate meeting"
+    },
+    {
+      "id": "custom-order-family",
+      "description": "A happy family posing for a photo outdoors",
+      "imageUrl": "https://lh3.googleusercontent.com/d/1bxPRTqWiBqYBf7FkPlNiFIJQzmPYIrM7",
+      "imageHint": "happy family"
+    }
+  ]
+}
